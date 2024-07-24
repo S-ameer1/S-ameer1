@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-ameer1&label=Profile%20views&color=0e75b6&style=flat" alt="s-ameer1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@mohamma82686901" target="blank"><img src="https://img.shields.io/twitter/follow/@mohamma82686901?logo=twitter&style=for-the-badge" alt="@mohamma82686901" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
