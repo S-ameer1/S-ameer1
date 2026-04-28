@@ -1,21 +1,102 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sameer</h1>
-<h3 align="center">A Computer Science student at Delhi Technological University and former SDE Intern at Fast Retailing </h3>
+<h3 align="center">🚀 Backend Developer | Java & Spring Boot |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-ameer1&label=Profile%20views&color=0e75b6&style=flat" alt="s-ameer1" /> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad-sameer-12a423224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-sameer-12a423224" height="30" width="40" /></a>
-<a href="https://instagram.com/s_ameer111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_ameer111" height="30" width="40" /></a>
-<a href="https://twitter.com/@mohamma82686901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohamma82686901" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=s-ameer1&label=Profile%20views&color=0e75b6&style=flat" alt="s-ameer1" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-ameer1&" alt="s-ameer1" /></p>
+### 🧠 About Me
+- 🎓 Graduate in Computer Science from **Delhi Technological University (DTU) (Formerly DCE)**  
+- 💻 Focused on **Backend Development (Java + Spring Boot)**  
+- 🧠 Strong foundation in **Data Structures & Algorithms**  
+- ⚙️ Learning to build **Scalable Systems & Microservices Architecture**  
+- 🌏 Ex-SDE Intern at **UNIQLO (Fast Retailing) (Japan 🇯🇵)**  
+- 🇯🇵 Preparing for **JLPT | Goal: Work in Japan**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-ameer1&show_icons=true&locale=en&layout=compact" alt="s-ameer1" /></p>
+---
 
+### 🔗 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/mohammad-sameer-12a423224" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://instagram.com/s_ameer111" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+<a href="https://twitter.com/@mohamma82686901" target="blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+</p>
 
+---
+
+### ⚙️ Tech Stack
+
+#### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
+
+#### ⚙️ Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+#### 🏗️ System Design & Backend Tools
+<p>
+<img src="https://skillicons.dev/icons?i=redis,kafka,docker" />
+</p>
+
+#### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
+
+#### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman,linux" />
+</p>
+
+---
+
+### 🚀 Projects
+
+#### 🔹 AI-Powered Fitness App (Microservices)
+- Built using **Spring Boot Microservices Architecture**
+- Implemented **API Gateway & inter-service communication**
+- Used **Docker for deployment & scalability**
+
+#### 🔹 Cyberbullying Detection System
+- Built using **TF-IDF + ML Models (LinearSVC, Logistic Regression, Naive Bayes)**
+- Achieved **97% F1 Score**
+- Supports **Hindi + English dataset**
+- Real-time text classification
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-ameer1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-ameer1&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-ameer1&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Achievements
+- 🥇 Selected for **Fast Retailing Educational Sponsorship Program (Top 5/2500+)**
+- 🌍 International Internship Experience in **Japan**
+
+---
+
+### 🎯 Current Focus
+- 🔥 Mastering **Spring Boot & Backend Development**
+- 🧠 Improving **DSA & Problem Solving**
+- ⚙️ Learning **System Design (Scalability, Caching, Messaging Systems)**  
+---
